@@ -5,4 +5,3 @@
 - 01-Project-EC2-AMI-Snapshot-Volumes
 
 ## Hands-On
-
